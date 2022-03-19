@@ -1,0 +1,3 @@
+# Miniproject
+* Individual
+* C programming
